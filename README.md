@@ -1,2 +1,4 @@
 # personal-website
-Personal Website Programming
+This is my first personal website attempt.
+I used ready to go one page site but i changed almost everything about it.
+It still not ready i will do updates about my portfolio and i will add them to my site too.
